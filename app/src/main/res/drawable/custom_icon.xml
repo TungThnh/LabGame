@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:scaleHeight="5dp"
+        android:scaleWidth="5dp"
+        android:drawable="@drawable/pig_icon"
+        >
+    <shape>
+        <size
+            android:height="5dp"
+            android:width="5dp" />
+    </shape>
+    </item>
+</layer-list>
